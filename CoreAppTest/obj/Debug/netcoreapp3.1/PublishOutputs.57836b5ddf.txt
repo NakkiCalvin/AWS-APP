@@ -1,7 +1,0 @@
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\CoreAppTest.exe
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\appsettings.Development.json
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\appsettings.json
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\CoreAppTest.dll
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\CoreAppTest.deps.json
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\CoreAppTest.runtimeconfig.json
-C:\Users\Vladimir.Dyatchik\AppData\Local\Temp\AWSDeploy.fd49be41\package\CoreAppTest.pdb
